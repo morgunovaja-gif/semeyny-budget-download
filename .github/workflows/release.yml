@@ -1,0 +1,27 @@
+# Когда в репозиторий кладут новый semeyny-budget.apk, публикуем его как релиз.
+# Ссылка для скачивания всегда одна и та же:
+# https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk
+name: Опубликовать версию
+
+on:
+  push:
+    branches: [main]
+    paths: [semeyny-budget.apk]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Выложить APK
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}
+          name: Версия ${{ github.run_number }}
+          body: Скачайте semeyny-budget.apk и установите. Обновление ставится поверх старой версии, записи сохраняются.
+          files: semeyny-budget.apk
+          make_latest: true
