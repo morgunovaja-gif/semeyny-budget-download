@@ -1,5 +1,5 @@
 {
-  "build": 23,
-  "notes": "Если исправить остаток кошелька, разница запишется: больше — доход «Корректировка», меньше — «Неучтённые расходы».",
+  "build": 25,
+  "notes": "На главной карточке теперь видно, сколько всего денег во всех кошельках семьи.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
