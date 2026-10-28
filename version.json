@@ -1,5 +1,5 @@
 {
-  "build": 19,
-  "notes": "Кнопка «Обновить» прямо в приложении: новые версии ставятся без ссылок и браузера.",
+  "build": 20,
+  "notes": "Длинный чек можно снять в несколько фото. Если чек уже внесён, приложение предупредит.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
