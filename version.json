@@ -1,5 +1,5 @@
 {
-  "build": 30,
-  "notes": "Фонды по вашим тратам, галочка «в статистике» для доходов и новая карточка «Состояние» с разбором трат: где сэкономить и какие покупки были импульсивными.",
+  "build": 31,
+  "notes": "В меню «Добавить» чек теперь один пункт: справа — камера и галерея.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
