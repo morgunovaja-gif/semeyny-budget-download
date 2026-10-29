@@ -1,5 +1,5 @@
 {
-  "build": 31,
-  "notes": "В меню «Добавить» чек теперь один пункт: справа — камера и галерея.",
+  "build": 32,
+  "notes": "Голосовой ввод понимает суммы вроде «11:30» и «3:20» — это 11,30 и 3,20 рубля.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
