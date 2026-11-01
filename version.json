@@ -1,5 +1,5 @@
 {
-  "build": 53,
-  "notes": "Исправлено: в деле не показывалось, сколько денег в кошельке дела (были три точки).",
+  "build": 54,
+  "notes": "Кнопки «Забрать в семью» и «Вложить в дело» на табло дела теперь яркие — их сразу видно.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
