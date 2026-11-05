@@ -1,5 +1,5 @@
 {
-  "build": 81,
-  "notes": "В новой записи можно сразу указать, что часть оплатили другим кошельком.",
+  "build": 82,
+  "notes": "Чеки читаются точнее: позиции больше не теряются, а если строки не сходятся с итогом, приложение само перечитывает фото.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
