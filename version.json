@@ -1,5 +1,5 @@
 {
-  "build": 96,
-  "notes": "Новое: если забыли пароль, а почта с ошибкой — Настройки → «Почта для входа» → «Не помню пароль»: новый вход с правильной почтой, все записи и семья переносятся.",
+  "build": 97,
+  "notes": "Исправлен сбой «FirebaseApp was deleted» после переноса на новую почту.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
