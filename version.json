@@ -1,5 +1,5 @@
 {
-  "build": 97,
-  "notes": "Исправлен сбой «FirebaseApp was deleted» после переноса на новую почту.",
+  "build": 98,
+  "notes": "Карточка «Потратили больше, чем пришло» теперь показывает два итога — сколько пришло и сколько ушло, а под ними разницу.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
