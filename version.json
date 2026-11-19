@@ -1,5 +1,5 @@
 {
-  "build": 119,
-  "notes": "Окно «Занять у другого фонда» теперь прокручивается — видны все фонды, включая нижние.",
+  "build": 121,
+  "notes": "Дела: новая вкладка «Прибыль». Забрать себе прибылью можно только заработанное — больше только в долг или как возврат вложения.",
   "url": "https://github.com/morgunovaja-gif/semeyny-budget-download/releases/latest/download/semeyny-budget.apk"
 }
